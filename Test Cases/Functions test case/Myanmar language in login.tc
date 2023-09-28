@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Welcome to Momoney in burmese language have many spacing.</description>
+   <name>Myanmar language in login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41448912-2872-45f1-97b4-1507f1a331d3</testCaseGuid>
+</TestCaseEntity>
